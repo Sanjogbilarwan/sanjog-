@@ -1,7 +1,11 @@
 # sanjog-
 hello everyone, this is my profile 
 <h1 align="center">Hi 👋, I'm Sanjog bilarwan</h1>
-<h3 align="center">🎓 B.Tech CSBS (Computer Science & Business Systems) student 💻 Exploring DSA, Web Development, AI & Problem Solving 🤖 Passionate about Artificial Intelligence and its real-world applications 🚀 Curious about startups, business ideas, and building things that actually matter 📚 Currently improving my development skills every day</h3>
+<h3 align="center">🎓 B.Tech CSBS (Computer Science & Business Systems) student 
+  💻 Exploring DSA, Web Development, AI & Problem Solving
+  🤖 Passionate about Artificial Intelligence and its real-world applications
+  🚀 Curious about startups, business ideas, and building things that actually matter
+  📚 Currently improving my development skills every day</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjogbilarwan&label=Profile%20views&color=0e75b6&style=flat" alt="sanjogbilarwan" /> </p>
 
